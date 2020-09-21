@@ -1,0 +1,5 @@
+1. The gifts dropdown for selecting Gift Card does not populate intermittently.
+2. Klarna tab comes up intermittently in checkout page. Since it can't be used when you purchase Gift Card(s), it should not come up for giftcard purchase.
+3. While filling the payment details, the date field for card details comes up as textbox sometimes and drop down sometimes, which is not a consistent behavior.
+
+Please find the screenshots for the bugs in the folder.

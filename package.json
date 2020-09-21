@@ -1,0 +1,14 @@
+{
+  "name": "fieldwire",
+  "version": "1.0.0",
+  "description": "",
+  "main": "conf.js",
+  "scripts": {
+    "test": "protractor conf.js"
+  },
+  "devDependencies": {
+    "protractor": "^5.1.1"
+  },
+  "author": "Nikhila Godugu",
+  "license": "ISC"
+}
