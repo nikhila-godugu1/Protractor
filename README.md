@@ -20,4 +20,3 @@ In order to get the code and install dependencies.
 
 # Validations
 1. Smoke and Regression Tests to validate the E2E flow for Macy's Gift Card purchase.
-
